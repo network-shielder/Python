@@ -4,4 +4,5 @@
 
 import pyjokes
 joke = pyjokes.get_joke()
+a=0,b=0,c=0
 print(joke)
